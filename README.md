@@ -1,6 +1,7 @@
  <h1 align="center">Hi 👋, I'm Maroful islam zishan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 I am a Junior Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zishan344&label=Profile%20views&color=0e75b6&style=flat" alt="zishan344" /> </p>
 
 - 🔭 I’m currently working on **React.js**
 
@@ -34,4 +35,4 @@ I am a Junior Front End developer with industry experience building websites and
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zishan344&show_icons=true&locale=en" alt="zishan344" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zishan344&" alt="zishan344" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zishan344&label=Profile%20views&color=0e75b6&style=flat" alt="zishan344" /> </p>
+
