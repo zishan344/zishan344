@@ -1,11 +1,7 @@
- 
-
-<!--
- -->
- 
+ ![I am frontend developer from Bangladesh](https://media-exp2.licdn.com/dms/image/C4D16AQGIoa_EbdPF9Q/profile-displaybackgroundimage-shrink_200_800/0/1654663014825?e=1661385600&v=beta&t=RdKfEhswwFckcaGEWkNiE_roTmPLaepGw-QQdUHQKTg)
 ### Hi there 👋, my name is Marouful Islam Zishan
 #### I am frontend developer from Bangladesh
-![I am frontend developer from Bangladesh](https://media-exp2.licdn.com/dms/image/C4D16AQGIoa_EbdPF9Q/profile-displaybackgroundimage-shrink_200_800/0/1654663014825?e=1661385600&v=beta&t=RdKfEhswwFckcaGEWkNiE_roTmPLaepGw-QQdUHQKTg)
+
 
 I am a Junior Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React.
 
