@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5060&color=000000&center=true&vCenter=true&width=620&lines=Welcome+To+My+GitHub+Profile;+I'm+Maroful+islam+zishan;+A+passionate+MERN+stack+developer+from+Bangladesh)](https://git.io/typing-svg)
 </h1>
 
- ![I am frontend developer from Bangladesh](https://media-exp2.licdn.com/dms/image/C4D16AQGIoa_EbdPF9Q/profile-displaybackgroundimage-shrink_200_800/0/1654663014825?e=1661385600&v=beta&t=RdKfEhswwFckcaGEWkNiE_roTmPLaepGw-QQdUHQKTg)
+ ![I am a MERN stack developer from Bangladesh](https://media-exp2.licdn.com/dms/image/C4D16AQGIoa_EbdPF9Q/profile-displaybackgroundimage-shrink_200_800/0/1654663014825?e=1661385600&v=beta&t=RdKfEhswwFckcaGEWkNiE_roTmPLaepGw-QQdUHQKTg)
 
-I am a Junior Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React.
+I am a Junior web developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with React.
 
 - 🔭 I’m currently working on **React.js**
 
