@@ -25,8 +25,6 @@
 
 🚀 So, grab your preferred beverage, fire up your code editor, and let's collaborate on a future where innovation knows no limits. Welcome to my coding realm! 💻✨ #MERNstack #MySQLMagic
 
-- 🔭 I’m currently working on **React.js**
-
 - 🌱 I’m currently learning **Next.js, React Native, JavaScript, etc.**
 
 - 👯 I’m looking to collaborate on **Github**
