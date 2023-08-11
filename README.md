@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5060&color=000000&center=true&vCenter=true&width=620&lines=Welcome+To+My+GitHub+Profile;+I'm+Maroful+islam+zishan;+A+passionate+MERN+stack+developer+from+Bangladesh)](https://git.io/typing-svg)
 </h1>
 
-![I am a MERN stack developer from Bangladesh](https://media-exp2.licdn.com/dms/image/C4D16AQGIoa_EbdPF9Q/profile-displaybackgroundimage-shrink_200_800/0/1654663014825?e=1661385600&v=beta&t=RdKfEhswwFckcaGEWkNiE_roTmPLaepGw-QQdUHQKTg)
+ 
 
 <p align="center">
   <img src="https://i.ibb.co/JHHnHSk/67cf8903-9b81-40d1-b38c-7d9f1e5fbd65.jpg" alt="Computer Coding" height="300px" />
@@ -55,8 +55,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zishan344)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zishan344&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zishan344)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zishan344)  
 
