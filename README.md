@@ -5,7 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5060&color=000000&center=true&vCenter=true&width=620&lines=Welcome+To+My+GitHub+Profile;+I'm+Maroful+islam+zishan;+A+passionate+MERN+stack+developer+from+Bangladesh)](https://git.io/typing-svg)
 </h1>
 
- ![I am a MERN stack developer from Bangladesh](https://media-exp2.licdn.com/dms/image/C4D16AQGIoa_EbdPF9Q/profile-displaybackgroundimage-shrink_200_800/0/1654663014825?e=1661385600&v=beta&t=RdKfEhswwFckcaGEWkNiE_roTmPLaepGw-QQdUHQKTg)
+![I am a MERN stack developer from Bangladesh](https://media-exp2.licdn.com/dms/image/C4D16AQGIoa_EbdPF9Q/profile-displaybackgroundimage-shrink_200_800/0/1654663014825?e=1661385600&v=beta&t=RdKfEhswwFckcaGEWkNiE_roTmPLaepGw-QQdUHQKTg)
+
+<p align="center">
+  <img src="https://i.ibb.co/JHHnHSk/67cf8903-9b81-40d1-b38c-7d9f1e5fbd65.jpg" alt="Computer Coding" height="300px" />
+</p>
 
 👋 Greetings! I'm Maroful Islam Zishan, a dedicated MERN Stack Developer with a year-long journey that's flourished at AIREPRO SOLUTION PVT LTD. 🚀 My world revolves around shaping ideas into robust web applications using the dynamic quartet of MongoDB, Express, React, Node.js, and even MySQL.
 
