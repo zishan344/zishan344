@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi There 👋
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5060&color=000000&center=true&vCenter=true&width=620&lines=Welcome+To+My+GitHub+Profile;+I'm+Maroful+islam+zishan;+A+passionate+MERN+stack+developer+from+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5060&color=000000&center=true&vCenter=true&width=620&lines=Welcome+To+My+GitHub+Portfolio;+I'm+Maroful+islam+zishan;+A+passionate+MERN+stack+developer+from+Bangladesh)](https://git.io/typing-svg)
 </h1>
 
  
