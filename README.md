@@ -46,3 +46,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zishan344&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zishan344)  
+![](https://komarev.com/ghpvc/?username=zishan344)
