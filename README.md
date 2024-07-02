@@ -43,6 +43,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zishan344)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zishan344&hide_progress=true)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zishan344&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zishan344)  
