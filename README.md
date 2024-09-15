@@ -2,8 +2,9 @@
  
 <h1 align="center">Hi There 👋
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=5060&color=000000&center=true&vCenter=true&width=620&lines=Welcome+To+My+GitHub+Portfolio;+I'm+Maroful+islam+zishan;+A+passionate+MERN+stack+developer+from+Bangladesh)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0078D7&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Portfolio!;I'm+Marouful+Islam+Zishan;Software+Engineer+and+Full-stack+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 </h1>
+
 
  
 
@@ -11,19 +12,33 @@
   <img src="https://i.ibb.co/JHHnHSk/67cf8903-9b81-40d1-b38c-7d9f1e5fbd65.jpg" alt="Computer Coding" height="300px" />
 </p>
 
-👋 Greetings! I'm Maroful Islam Zishan, a dedicated MERN Stack Developer with a year-long journey that's flourished at AIREPRO SOLUTION PVT LTD. 🚀 My world revolves around shaping ideas into robust web applications using the dynamic quartet of MongoDB, Express, React, Node.js, and even MySQL.
+# 👨‍💻 Marouful Islam Zishan | Software Engineer | Full-stack Developer | Competitive Programmer
 
-🛠️ Beyond the code, I'm an avid problem solver who crafts clean, efficient, and user-centric solutions. With each line of code, I embrace the art of creating seamless digital experiences that leave a lasting impact.
+---
 
-🌱 Learning is my steadfast companion throughout this coding adventure. From mastering new technologies to refining my current skills, I relish every challenge that propels me forward as a developer.
+### Introduction:
+**Hello!** I’m **Marouful Islam Zishan**, a passionate **Software Engineer** and **Full-stack Developer** with expertise in building scalable web applications using technologies like **JavaScript, TypeScript, React, Node.js, MySQL, MongoDB**, and more. I specialize in delivering robust, user-centric solutions and thrive on tackling complex problems in software development.
 
-🌟 AIREPRO SOLUTION PVT LTD has been an extraordinary canvas for me to bring my ideas to life. Collaborating with a team of brilliant minds, we've transformed concepts into functional realities, conquering intricate coding landscapes together.
+🔧 **Core Technologies**:  
+- **Frontend**: JavaScript, TypeScript, React  
+- **Backend**: Node.js, Python  
+- **Databases**: MySQL, MongoDB  
+- **Programming Languages**: C, C++, Python
 
-💡 When I'm not immersed in the world of code, I'm often found capturing moments with my camera, exploring nature's beauty, or indulging in a captivating book. Life's rich tapestry fuels my creativity, infusing my development projects with an extra dose of inspiration.
+🌍 **Special Interests**:  
+- Competitive programming  
+- Scalable software solutions  
+- Open-source contributions
 
-🤝 Let's connect and embark on a coding journey that embraces MySQL's power alongside other technologies. Whether we're delving into the latest tech trends, sharing coding conundrums, or simply building connections, my virtual door is wide open!
+---
 
-🚀 So, grab your preferred beverage, fire up your code editor, and let's collaborate on a future where innovation knows no limits. Welcome to my coding realm! 💻✨ #MERNstack #MySQLMagic
+### About Me:
+- 🖥️ As a **Software Developer**, I focus on creating clean, efficient, and scalable applications that deliver seamless user experiences. From backend infrastructure to frontend interfaces, my code solves real-world problems.
+- 📚 I believe in **continuous learning**, always refining my skills by mastering new technologies and improving problem-solving strategies.
+- 💡 I love collaborating with teams to transform ideas into functional solutions. Each project is an opportunity to learn, grow, and contribute to impactful software development.
+- 🎨 When I’m not coding, I enjoy photography, exploring nature, and using these hobbies as inspiration for my creative side projects.
+
+---
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://marouful-islam-zishan.netlify.app/)
 - 💬 Ask me about **Web Development**
