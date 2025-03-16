@@ -15,13 +15,13 @@
 ---
 
 ### Introduction:
-**Hello!** I’m **Marouful Islam Zishan**, a passionate **Software Engineer** and **Full-stack Developer** with expertise in building scalable web applications using technologies like **JavaScript, TypeScript, React, Node.js, MySQL, MongoDB**, and more. I specialize in delivering robust, user-centric solutions and thrive on tackling complex problems in software development.
+**Hello!** I’m **Marouful Islam Zishan**, a passionate **Software Engineer** and **Full-stack Developer** with expertise in building scalable web applications using technologies like **JavaScript, TypeScript, React, Node.js, Django, Postgresql, MongoDB**, and more. I specialize in delivering robust, user-centric solutions and thrive on tackling complex problems in software development.
 
 🔧 **Core Technologies**:  
 - **Frontend**: JavaScript, TypeScript, React  
-- **Backend**: Node.js, Python  
-- **Databases**: MySQL, MongoDB  
-- **Programming Languages**: C, C++, Python
+- **Backend**: Node.js, django
+- **Databases**: Postgresql, MongoDB  
+- **Programming Languages**: C, C++, Python javascript, Typescript
 
 🌍 **Special Interests**:  
 - Competitive programming  
@@ -52,7 +52,7 @@
   <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/islammarouful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islammarouful" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marouful-islam-zishan-950610241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marouful-islam-zishan-950610241" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marouful-islam-zishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marouful-islam-zishan-950610241" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18390203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18390203" height="30" width="40" /></a>
 <a href="https://fb.com/marouf5010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marouf5010" height="30" width="40" /></a>
 </p>
