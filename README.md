@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi There 👋
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0078D7&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Portfolio!;I'm+Marouful+Islam+Zishan;Software+Engineer+and+Full-stack+Developer;Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0078D7&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Profile!;I'm+Mohammad+Marouful+Islam+Zishan;Full-Stack+Software+Engineer;and+Competitive+Programmer)](https://git.io/typing-svg)
 </h1>
 
 
@@ -10,12 +10,12 @@
   <img src="https://i.ibb.co/JHHnHSk/67cf8903-9b81-40d1-b38c-7d9f1e5fbd65.jpg" alt="Computer Coding" height="300px" />
 </p>
 
-# 👨‍💻 Marouful Islam Zishan | Software Engineer | Full-stack Developer | Competitive Programmer
+# 👨‍💻 Mohammad Marouful Islam Zishan | Full-stack Software Engineer | Competitive Programmer
 
 ---
 
 ### Introduction:
-**Hello!** I’m **Marouful Islam Zishan**, a passionate **Software Engineer** and **Full-stack Developer** with expertise in building scalable web applications using technologies like **JavaScript, TypeScript, React, Node.js, Django, Postgresql, MongoDB**, and more. I specialize in delivering robust, user-centric solutions and thrive on tackling complex problems in software development.
+**Hello!** I’m **Mohammad Marouful Islam Zishan**, a passionate **Full-stack Software Engineer** with expertise in building scalable web applications using technologies like **JavaScript, TypeScript, React, Node.js, Django, Postgresql, MongoDB**, and more. I specialize in delivering robust, user-centric solutions and thrive on tackling complex problems in software development.
 
 🔧 **Core Technologies**:  
 - **Frontend**: JavaScript, TypeScript, React  
@@ -25,13 +25,12 @@
 
 🌍 **Special Interests**:  
 - Competitive programming  
-- Scalable software solutions  
-- Open-source contributions
+- Scalable software solutions
 
 ---
 
 ### About Me:
-- 🖥️ As a **Software Developer**, I focus on creating clean, efficient, and scalable applications that deliver seamless user experiences. From backend infrastructure to frontend interfaces, my code solves real-world problems.
+- 🖥️ As a **Software Engineer**, I focus on creating clean, efficient, and scalable applications that deliver seamless user experiences. From backend infrastructure to frontend interfaces, my code solves real-world problems.
 - 📚 I believe in **continuous learning**, always refining my skills by mastering new technologies and improving problem-solving strategies.
   
 - 💡 I love collaborating with teams to transform ideas into functional solutions. Each project is an opportunity to learn, grow, and contribute to impactful software development.
