@@ -23,7 +23,6 @@ const zishan = {
     name: "Mohammad Marouful Islam Zishan",
     role: "Full-Stack Software Engineer",
     location: "Bangladesh 🇧🇩",
-    education: "Computer Science & Engineering",
     
     currentFocus: [
         "Building scalable web applications",
@@ -136,9 +135,8 @@ const zishan = {
 ### 🤝 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marouful-islam-zishan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/islammarouful)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zishan3344)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18390203)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/marouf5010)
 
 </div>
 
