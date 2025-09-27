@@ -1,60 +1,156 @@
+<div align="center">
 
- 
-<h1 align="center">Hi There 👋
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=0078D7&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub+Profile!;I'm+Mohammad+Marouful+Islam+Zishan;Full-Stack+Software+Engineer;and+Competitive+Programmer)](https://git.io/typing-svg)
-</h1>
+# 🚀 Mohammad Marouful Islam Zishan
+### Full-Stack Software Engineer | Competitive Programmer | Problem Solver
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Software+Engineer;Competitive+Programming+Enthusiast;Building+Scalable+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://i.ibb.co/JHHnHSk/67cf8903-9b81-40d1-b38c-7d9f1e5fbd65.jpg" alt="Computer Coding" height="300px" />
-</p>
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-# 👨‍💻 Mohammad Marouful Islam Zishan | Full-stack Software Engineer | Competitive Programmer
+![Profile Views](https://komarev.com/ghpvc/?username=zishan344&style=for-the-badge&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/zishan344?style=for-the-badge&color=blue)](https://github.com/zishan344)
 
----
-
-### Introduction:
-**Hello!** I’m **Mohammad Marouful Islam Zishan**, a passionate **Full-stack Software Engineer** with expertise in building scalable web applications using technologies like **JavaScript, TypeScript, React, Node.js, Django, Postgresql, MongoDB**, and more. I specialize in delivering robust, user-centric solutions and thrive on tackling complex problems in software development.
-
-🔧 **Core Technologies**:  
-- **Frontend**: JavaScript, TypeScript, React  
-- **Backend**: Node.js, django
-- **Databases**: Postgresql, MongoDB  
-- **Programming Languages**: C, C++, Python javascript, Typescript
-
-🌍 **Special Interests**:  
-- Competitive programming  
-- Scalable software solutions
+</div>
 
 ---
 
-### About Me:
-- 🖥️ As a **Software Engineer**, I focus on creating clean, efficient, and scalable applications that deliver seamless user experiences. From backend infrastructure to frontend interfaces, my code solves real-world problems.
-- 📚 I believe in **continuous learning**, always refining my skills by mastering new technologies and improving problem-solving strategies.
-  
-- 💡 I love collaborating with teams to transform ideas into functional solutions. Each project is an opportunity to learn, grow, and contribute to impactful software development.
-  
-- 🎨 When I’m not coding, I enjoy photography, exploring nature, and using these hobbies as inspiration for my creative side projects.
-  
-- 👨‍💻 All of my projects are available at [my portfolio](https://marouful-islam-zishan-portfolio.vercel.app/)
-  
-- 💬 Ask me about **Software solution**
-  
-- 📫 How to reach me **maroufulislam.zishan@gmail.com**
-  
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1ELRDq1l4iu9b2wKXVZzXDNm09NVsgbmb/view?usp=sharing)
-  
+## 🎯 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+
+```javascript
+const zishan = {
+    name: "Mohammad Marouful Islam Zishan",
+    role: "Full-Stack Software Engineer",
+    location: "Bangladesh 🇧🇩",
+    education: "Computer Science & Engineering",
+    
+    currentFocus: [
+        "Building scalable web applications",
+        "Competitive programming",
+        "Open source contributions",
+        "Learning new technologies"
+    ],
+    
+    lifePhilosophy: "Code with passion, learn continuously, solve problems creatively"
+};
+```
+
+🔭 **Currently Working On:** Scalable web applications using modern tech stack  
+🌱 **Learning:** Advanced System Design, Cloud Architecture, DevOps  
+👯 **Looking to Collaborate:** Open source projects and innovative solutions  
+🤔 **Ask Me About:** Software development, competitive programming, tech solutions  
+⚡ **Fun Fact:** I love photography and exploring nature for creative inspiration  
+
 ---
 
+## 🛠️ Technology Stack
 
-  <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/islammarouful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="islammarouful" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marouful-islam-zishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marouful-islam-zishan-950610241" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18390203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18390203" height="30" width="40" /></a>
-<a href="https://fb.com/marouf5010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marouf5010" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zishan344)  
-![](https://komarev.com/ghpvc/?username=zishan344)
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zishan344&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zishan344&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zishan344&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zishan344&theme=tokyo-night)
+
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zishan344&theme=tokyonight&column=4&margin-w=10)](https://github.com/zishan344)
+
+</div>
+
+### 🎯 Professional Highlights
+- 💼 **Full-Stack Development:** Building end-to-end web applications
+- 🏅 **Competitive Programming:** Active participant in coding contests
+- 🌟 **Problem Solving:** Strong algorithmic and data structure skills
+- 🚀 **Innovation:** Creating user-centric, scalable solutions
+- 📚 **Continuous Learning:** Always exploring new technologies and frameworks
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+### �� Get In Touch
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://marouful-islam-zishan-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maroufulislam.zishan@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1ELRDq1l4iu9b2wKXVZzXDNm09NVsgbmb/view?usp=sharing)
+
+### 🤝 Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marouful-islam-zishan)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/islammarouful)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18390203)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/marouf5010)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+*"The best way to predict the future is to create it."* - Peter Drucker
+
+---
+
+⭐ **From [zishan344](https://github.com/zishan344)** | Made with ❤️ and lots of ☕
+
+</div>
