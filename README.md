@@ -34,13 +34,6 @@ const zishan = {
     Life Philosophy: "Code with passion, learn continuously, solve problems creatively"
 };
 ```
-
-🔭 **Currently Working On:** Scalable web applications using modern tech stack  
-🌱 **Learning:** Advanced System Design, Cloud Architecture, DevOps  
-👯 **Looking to Collaborate:** Open source projects and innovative solutions  
-🤔 **Ask Me About:** Software development, competitive programming, tech solutions  
-⚡ **Fun Fact:** I love photography and exploring nature for creative inspiration  
-
 ---
 
 ## 🛠️ Technology Stack
