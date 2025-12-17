@@ -25,7 +25,7 @@ const zishan = {
     location: "Bangladesh 🇧🇩",
     
     currentFocus: [
-        "Building scalable web applications",
+        "Building scalable web applications ",
         "Competitive programming",
         "Open source contributions",
         "Learning new technologies"
