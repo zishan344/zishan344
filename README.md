@@ -119,7 +119,7 @@ const zishan = {
 
 <div align="center">
 
-### �� Get In Touch
+### Get In Touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://marouful-islam-zishan-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maroufulislam.zishan@gmail.com)
