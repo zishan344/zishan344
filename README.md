@@ -31,7 +31,7 @@ const zishan = {
         "Learning new technologies"
     ],
     
-    Life Philosophy: "Code with passion, learn continuously, solve problems creatively"
+    Life Philosophy: "Code with passion, learn continuously, solve problems creatively."
 };
 ```
 ---
