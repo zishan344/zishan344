@@ -1,7 +1,12 @@
 <div align="center">
 
+<!-- Banner Image -->
+<img src="banner.png" alt="Mohammad Zishan - Full-Stack Developer Banner" width="100%" height="auto" />
+
+<!-- Profile Title & Tagline -->
 # Mohammad Marouful Islam Zishan
-### Full-Stack Software Engineer | Django & MERN Stack | Problem Solver
+
+### Full-Stack Software Engineer | MERN & Django Specialist | Open source contributor
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Software+Engineer;Competitive+Programming+Enthusiast;Building+Scalable+Solutions;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
@@ -15,8 +20,6 @@
 ---
 
 ## 🎯 About Me 
-
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 ```javascript
 const zishan = {
