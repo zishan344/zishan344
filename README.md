@@ -101,14 +101,6 @@ const zishan = {
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zishan344&theme=tokyonight&column=4&margin-w=10)](https://github.com/zishan344)
-
-</div>
-
 ### 🎯 Professional Highlights
 - 💼 **Full-Stack Development:** Building end-to-end web applications
 - 🏅 **Competitive Programming:** Active participant in coding contests
